@@ -1,0 +1,3 @@
+[submodule "learning-infiniTensor"]
+	path = learning-infiniTensor
+	url = git@github.com:CornWorld/learning-infiniTensor.git
